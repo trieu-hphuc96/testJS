@@ -1,3 +1,3 @@
 console.log('bbbbbbbbbbb');
 
-import('./dont_bundle/test3');
+import('./dont_import_mainJS/test3');

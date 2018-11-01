@@ -7,3 +7,6 @@ function mySpecialFunction() {
 module.exports = {
   mySpecialFunction: mySpecialFunction
 };
+
+
+import('./dont_import_mainJS/test4');
